@@ -1,0 +1,5 @@
+*.txt
+*.md
+*.pdf
+.DS_Store
+*.mp3
