@@ -3,7 +3,7 @@
 Instalar dependencias:
 
 ``` terminal
-conda create -n rags
+conda create -n rag_examples
 pip install --upgrade langchain langchain-community langchainhub langchain_openai langchain_pinecone langchain langchain-community langchainhub git+https://github.com/pytube/pytube git+https://github.com/openai/whisper.git 
 ```
 
